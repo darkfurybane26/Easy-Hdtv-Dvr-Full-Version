@@ -234,4 +234,4 @@ This repository serves as the official landing page for Easy HDTV DVR. The softw
 **Get the most recent version of Easy HDTV DVR today!**
 
 ---
-**Last updated:** 2026-09-09 22:07:07 UTC
+**Last updated:** 2026-09-10 00:43:28 UTC
